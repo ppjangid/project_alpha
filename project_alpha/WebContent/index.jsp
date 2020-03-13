@@ -7,8 +7,9 @@
 <title>Project Alpha</title>
 </head>
 <body>
-	<div style="width: 100%;">
+	<div style="width: 100%;" align="center">
 		<h1>Project Alpha</h1>
+		Project Alpha
 	</div>
 </body>
 </html>
